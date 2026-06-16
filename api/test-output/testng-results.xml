@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-15T15:43:09 IST" name="Default suite" finished-at="2026-06-15T15:43:13 IST" duration-ms="3589">
+  <suite started-at="2026-06-16T17:16:48 IST" name="Default suite" finished-at="2026-06-16T17:16:51 IST" duration-ms="2552">
     <groups>
     </groups>
-    <test started-at="2026-06-15T15:43:09 IST" name="Default test" finished-at="2026-06-15T15:43:13 IST" duration-ms="3589">
-      <class name="apiTesting.ApiValidation">
-        <test-method signature="f()[pri:0, instance:apiTesting.ApiValidation@77847718]" started-at="2026-06-15T15:43:09 IST" name="f" finished-at="2026-06-15T15:43:13 IST" duration-ms="3497" status="PASS">
+    <test started-at="2026-06-16T17:16:48 IST" name="Default test" finished-at="2026-06-16T17:16:51 IST" duration-ms="2552">
+      <class name="apiTesting.OPTIONS">
+        <test-method signature="f()[pri:0, instance:apiTesting.OPTIONS@75d4a5c2]" started-at="2026-06-16T17:16:48 IST" name="f" finished-at="2026-06-16T17:16:51 IST" duration-ms="2474" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-      </class> <!-- apiTesting.ApiValidation -->
+      </class> <!-- apiTesting.OPTIONS -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
