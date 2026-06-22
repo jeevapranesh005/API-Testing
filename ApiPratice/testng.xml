@@ -3,8 +3,15 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="ApiTesting1.DemoTest"/>
+      <class name="ApiTesting1.Roll_check"/>
+      <class name="ApiTesting1.Course_check"/>
+      <class name="ApiTesting1.getInstution"/>
+      <class name="ApiTesting1.Health_check"/>
+      <class name="ApiTesting1.Get_all_notes"/>
+      <class name="ApiTesting1.Login_check"/>
+      <class name="ApiTesting1.Create_note"/>
       <class name="ApiTesting.HealthCheck_Get"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
-
