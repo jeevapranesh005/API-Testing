@@ -3,15 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ApiTesting.HealthCheck_Get">
+      <class name="ApiTesting1.Create_note">
         <methods>
-          <include name="Create_note"/>
-          <include name="update"/>
-          <include name="Login"/>
-          <include name="Get_ID"/>
-          <include name="Toggle"/>
+          <include name="CreateNote_MissingTitle"/>
         </methods>
-      </class> <!-- ApiTesting.HealthCheck_Get -->
+      </class> <!-- ApiTesting1.Create_note -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
